@@ -1,2 +1,2 @@
-# Thte-Sparks-Foundation-Internship
+# The-Sparks-Foundation-Internship
 Domain-Data Science and Analytics
