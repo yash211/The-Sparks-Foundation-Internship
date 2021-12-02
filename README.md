@@ -7,4 +7,4 @@ Domain-Data Science and Analytics
    - No of hours
    - Scores
 ## Model Used-
-   - 
+   - Linear Regression
